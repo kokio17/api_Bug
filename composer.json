@@ -1,0 +1,17 @@
+{
+    "name": "eleve/tp1",
+    "authors": [
+        {
+            "name": "Steven",
+            "email": "sladowichx@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "BugApp\\": "src/"
+        }
+    }
+}
